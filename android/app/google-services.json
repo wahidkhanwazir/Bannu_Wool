@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626365972343",
+    "project_id": "bannuwool",
+    "storage_bucket": "bannuwool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626365972343:android:d15d50d18945a89f7aab72",
+        "android_client_info": {
+          "package_name": "com.example.bannuwool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRa27xDExjo19oztaIZCV4_P7r24i-w3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
